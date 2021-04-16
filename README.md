@@ -1,6 +1,6 @@
 # CTF.vim
 
-CTF.vim grants you to ability summoning CTF gods. 
+CTF.vim grants you the ability to summon CTF gods.
 
 ## Commands
 
